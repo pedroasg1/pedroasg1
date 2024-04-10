@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Pedro Sánchez, a young student and programmer, 16 years old, from Mexico. I'm passionate about the world of programming. Currently, I focus on FrontEnd development, where I enjoy creating attractive and functional web pages that captivate users.
+Hi! I'm Pedro Sánchez, a young student and programmer, 16 years old, from Mexico. I'm passionate about the world of programming. Currently, I focus on FrontEnd development, where I enjoy creating attractive and functional web pages that captivate users.
 
 
 # 💻 Tech Stack:
